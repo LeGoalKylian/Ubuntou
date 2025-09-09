@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Ma Première Page</title>
+</head>
+<body>
+    <h1>Bonjour, monde !</h1>
+    <p>Ceci est mon premier site web en HTML.</p>
+    <a href="https://www.github.com" target="_blank">Visiter GitHub</a>
+</body>
+</html>
